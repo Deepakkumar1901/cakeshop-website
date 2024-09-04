@@ -32,7 +32,7 @@ export default function About() {
             src={image}
             alt="Cup Cake"
           />
-          <p className="font-bold text-xl mb-2">CUP CAKE</p>
+          <p className="font-bold text-xl mb-2">CUP-CAKE</p>
           <p className="text-gray-700 text-base mb-4">
             We hardly get time to spend with our loved ones. Gifts, especially
             cakes and flowers, are the best way to express your love. Even if
